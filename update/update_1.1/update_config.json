@@ -1,0 +1,30 @@
+{
+    "directory": [],
+    "sql_file": "",
+    "files": [
+      {
+          "root_directory"    : "update/update_1.1/views/backend/admin/offline_payment_approve.php",
+          "update_directory"  : "application/views/backend/admin/offline_payment_approve.php"
+      },
+      {
+          "root_directory"    : "update/update_1.1/views/backend/admin/offline_payment_pending.php",
+          "update_directory"  : "application/views/backend/admin/offline_payment_pending.php"
+      },
+      {
+          "root_directory"    : "update/update_1.1/views/backend/admin/offline_payment_suspended.php",
+          "update_directory"  : "application/views/backend/admin/offline_payment_suspended.php"
+      },
+      {
+          "root_directory"    : "update/update_1.1/views/payment/offline_payment_gateway.php",
+          "update_directory"  : "application/views/payment/offline_payment_gateway.php"
+      },
+      {
+          "root_directory"    : "update/update_1.1/views/payment/offline_payment_gateway_form.php",
+          "update_directory"  : "application/views/payment/offline_payment_gateway_form.php"
+      },
+      {
+          "root_directory"    : "update/update_1.1/assets/offline_payment.png",
+          "update_directory"  : "assets/payment/offline_payment.png"
+      }
+    ]
+  }
